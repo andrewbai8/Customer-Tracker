@@ -13,8 +13,8 @@ let customers = [
 
 },
 {
-    name: "Relvies Smith",
-    email: "relvie123@gmail.com",
+    name: "Ryan Smith",
+    email: "RyanSmith123@gmail.com",
     purchases: ["Fortnite 10000 Vbucks", "Fortnite Skin 1000 Vbucks"]
 
 }]
