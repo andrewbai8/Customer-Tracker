@@ -1,4 +1,4 @@
-// Customer Records // 
+// Customer Records Epic Games // 
 let customers = [
 {
     name: "Andrew Wang",
@@ -19,5 +19,18 @@ let customers = [
 
 }]
 // Add and removed data // 
+// added customer // 
+customers.push({
+name: "Hendrick Wong",
+email: "HendrickWong222@gmail.com",
+purchases: ["Rocket League Game", "Fortnite 2500 VBucks"]
+
+})
+// removed customer // 
+customers.shift({
 
 
+
+
+    
+})
