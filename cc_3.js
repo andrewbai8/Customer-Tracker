@@ -31,6 +31,15 @@ customers.shift({
 
 
 
-
     
 })
+
+
+
+// 
+console.log(customers);
+console.log(customers.name);
+console.log(customers.email);
+console.log(purchases);
+
+
